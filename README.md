@@ -1,5 +1,5 @@
-# Benign-Malignant-Brain-Tumor-Classification
-Comparative analysis of classification algorithms in Machine Learning to classify benign and malignant brain tumors in MRI scans.
+# Benign-Malignant-Breast-Tumor-Classification
+Comparative analysis of classification algorithms in Machine Learning to classify benign and malignant breast tumors in MRI scans.
 
 Breast Tumor data found at: https://www.kaggle.com/datasets/sarahvch/breast-cancer-wisconsin-prognostic-data-set 
 
